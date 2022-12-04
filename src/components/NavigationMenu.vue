@@ -1,0 +1,9 @@
+<template>
+    <nav>
+      <ul>
+        <li>Цветы</li>
+        <li>Доставка</li>
+        <li>Корзина</li>
+      </ul>
+    </nav>
+</template>
